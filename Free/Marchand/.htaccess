@@ -1,0 +1,2 @@
+RewriteEngine On # Activer le module Rewrite
+RewriteRule ^/?$ index.php [NC,L]
